@@ -13,4 +13,8 @@ void main() {
 
     IO.println("Můj věk je asi 18");
     IO.println("Moje bydliště je Malá Díra, 582 Tlumačov 76362");
+    IO.println("Telefon: 249872798");
+    IO.println("Emil: nereknu");
+
+    IO.println("Omluva: Ja se omlouvam zapomenul jsem to commitnout :( ");
 }
